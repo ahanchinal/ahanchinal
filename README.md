@@ -63,8 +63,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://adityahanchinal.com"><img src="https://img.shields.io/badge/Portfolio-adityahanchinal.com-3B82F6?style=flat-square" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/adityahanchinal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:aditya.hanchinal@gmail.com"><img src="https://img.shields.io/badge/Email-aditya.hanchinal-6B7280?style=flat-square" /></a>
-</p>
+
