@@ -10,12 +10,12 @@ Product Manager who designs and ships. I research the problem, design the experi
 
 ### Shipping Now
 
-> #### 🔗 [Subtext](http://withsubtext.com) &nbsp; `LIVE`
+> #### [Subtext](http://withsubtext.com) &nbsp; <img src="https://img.shields.io/badge/LIVE-4a8c6f?style=flat-square" alt="LIVE" />
 >
 > AI tool that extracts job posts and integrates financial, media, and historical context to synthesize strategic intelligence for job seekers.
 
 
-> #### 🔗 [EmailActions](https://www.emailactions.online) &nbsp; `LIVE`
+> #### [EmailActions](https://www.emailactions.online) &nbsp; <img src="https://img.shields.io/badge/LIVE-4a8c6f?style=flat-square" alt="LIVE" />
 >
 > Extracts obligations — tasks, deadlines, payments, follow-ups — from multiple Gmail accounts and surfaces them in a unified, actionable dashboard.
 
@@ -30,7 +30,7 @@ Product Manager who designs and ships. I research the problem, design the experi
 >
 > `Make.com` `Apollo API` `Gmail API` `Google Sheets`
 
-> #### [Hotstar Clubhouse](https://github.com/ahanchinal/hotstar-clubhouse) &nbsp; `PROTOTYPE`
+> #### [Hotstar Clubhouse](https://github.com/ahanchinal/hotstar-clubhouse) &nbsp; <img src="https://img.shields.io/badge/PROTOTYPE-4a6fa5?style=flat-square" alt="PROTOTYPE" />
 >
 > Social watch-party feature for Disney+ Hotstar to combat decision paralysis. User surveys, personas, prioritization framework, and interactive prototype.
 >
@@ -38,7 +38,7 @@ Product Manager who designs and ships. I research the problem, design the experi
 >
 > **[View Figma Prototype →](https://www.figma.com/proto/KSehIbWrTLUlzCLlpJcTGu/)**
 
-> #### [QuickEase](https://github.com/ahanchinal/quickease) &nbsp; `PROTOTYPE`
+> #### [QuickEase](https://github.com/ahanchinal/quickease) &nbsp; <img src="https://img.shields.io/badge/PROTOTYPE-4a6fa5?style=flat-square" alt="PROTOTYPE" />
 >
 > Inventory control system for pet stores — automated reordering, demand forecasting, and 3 purchase flows. Full UX research and hi-fi Figma prototype.
 >
