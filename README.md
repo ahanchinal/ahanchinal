@@ -26,14 +26,12 @@
 > #### 🔗 [Subtext](http://withsubtext.com) &nbsp; `LIVE`
 >
 > AI tool that extracts job posts and integrates financial, media, and historical context to synthesize strategic intelligence for job seekers.
->
-> `Next.js` `Supabase` `Gemini API` `OpenAI`
+
 
 > #### 🔗 [EmailActions](https://www.emailactions.online) &nbsp; `LIVE`
 >
 > Extracts obligations — tasks, deadlines, payments, follow-ups — from multiple Gmail accounts and surfaces them in a unified, actionable dashboard.
->
-> `Express.js` `Node.js` `Gmail API` `Gemini API`
+
 
 ---
 
