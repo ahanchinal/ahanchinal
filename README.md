@@ -3,9 +3,9 @@
 <p align="center">Product Manager who designs and ships.<br>I research the problem, design the experience, and build the product.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Product%20%2B%20Design-E8603C?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-AI--native%20SaaS-3B82F6?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building-22C55E?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Product%20%2B%20Design-E8603C?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/AI--native%20SaaS-3B82F6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building-22C55E?style=flat-square" alt="Status" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-68a063?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Make.com-6d4aff?style=flat-square" />
 </p>
 
@@ -27,13 +27,13 @@
 >
 > AI tool that extracts job posts and integrates financial, media, and historical context to synthesize strategic intelligence for job seekers.
 >
-> `Next.js` `Firebase` `Gemini API` `Figma`
+> `Next.js` `Supabase` `Gemini API` `Figma`
 
 > #### 🔗 [EmailActions](https://www.emailactions.online) &nbsp; `LIVE`
 >
 > Extracts obligations — tasks, deadlines, payments, follow-ups — from multiple Gmail accounts and surfaces them in a unified, actionable dashboard.
 >
-> `Chrome Extension` `Node.js` `Gmail API` `Claude API`
+> `Express.js` `Node.js` `Gmail API` `Gemini API`
 
 ---
 
@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <a href="https://adityahanchinal.com"><img src="https://img.shields.io/badge/Portfolio-adityahanchinal.com-3B82F6?style=for-the-badge" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/adityahanchinal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:aditya.hanchinal@gmail.com"><img src="https://img.shields.io/badge/Email-aditya.hanchinal-6B7280?style=for-the-badge" /></a>
+  <a href="https://adityahanchinal.com"><img src="https://img.shields.io/badge/Portfolio-adityahanchinal.com-3B82F6?style=flat-square" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/adityahanchinal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:aditya.hanchinal@gmail.com"><img src="https://img.shields.io/badge/Email-aditya.hanchinal-6B7280?style=flat-square" /></a>
 </p>
